@@ -1,5 +1,5 @@
 ## Este es el README personal de Jorge
-
+Mis estudios son ....
 <!--
 **jlgr3/jlgr3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
